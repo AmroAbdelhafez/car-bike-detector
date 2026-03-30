@@ -33,5 +33,5 @@ If you want to run this project on your own machine, you can easily do so using 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/car-bike-detector.git](https://github.com/YOUR_USERNAME/car-bike-detector.git)
+   git clone [https://github.com/AmroAbdelhafez/car-bike-detector.git](https://github.com/YOUR_USERNAME/car-bike-detector.git)
    cd car-bike-detector
