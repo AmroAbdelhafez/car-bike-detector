@@ -1,0 +1,4 @@
+flask
+ultralytics
+onnxruntime
+opencv-python-headless
