@@ -1,4 +1,5 @@
 flask
 ultralytics
-onnxruntime
-opencv-python
+onnxruntime==1.15.1
+opencv-python-headless
+gunicorn
