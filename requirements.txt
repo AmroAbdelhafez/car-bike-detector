@@ -1,6 +1,6 @@
 flask
 ultralytics
-onnxruntime==1.15.1
+onnxruntime==1.17.1
 opencv-python-headless
 gunicorn
 numpy<2.0.0
